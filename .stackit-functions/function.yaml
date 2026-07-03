@@ -1,0 +1,9 @@
+apiVersion: functions.stackit.cloud/v1alpha
+kind: Function
+metadata:
+  id: d0fc6410-770e-11f1-9700-de9d9fc094d9
+  name: solar-panel-checker
+  created: 2026-05-15T17:46:45Z
+  annotations:
+    cli.functions.stackit.cloud/trigger: http
+spec: {}
