@@ -6,7 +6,7 @@ function:
   envs: []
   image: rg.fr-par.scw.cloud/bouke/solar-panel-checker:latest@sha256:fc38103a33e298be58dc446d0b22d003b4abfaa57f284073889a268b79f9cf6c
   limits:
-    plan: f1
+    plan: f3
     concurrency: 0
   local_limits:
     memory: 512 # e.g. for the f3 plan
@@ -14,3 +14,4 @@ function:
 project:
   projectId: fc7a0a09-3cf7-4726-9155-60137b5d3e43
   functionId: d0fc6410-770e-11f1-9700-de9d9fc094d9
+# This file has been automatically converted to new configuration in ../.stackit-functions

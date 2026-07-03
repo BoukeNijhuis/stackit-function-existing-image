@@ -1,4 +1,0 @@
-apiVersion: functions.stackit.cloud/v1alpha
-kind: Project
-metadata:
-  id: fc7a0a09-3cf7-4726-9155-60137b5d3e43
