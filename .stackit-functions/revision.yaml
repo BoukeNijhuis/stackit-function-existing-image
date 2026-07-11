@@ -5,7 +5,7 @@ metadata:
   annotations:
     cli.functions.stackit.cloud/local-memory-limit-mb: '512'
 spec:
-  image: rg.fr-par.scw.cloud/bouke/solar-panel-checker:latest@sha256:fc38103a33e298be58dc446d0b22d003b4abfaa57f284073889a268b79f9cf6c
+  image: rg.fr-par.scw.cloud/bouke/solar-panel-checker:latest@sha256:edd1b0219ecf8225ffc9fe58c5bc1adb3ae0abbafe78b9eed939f697d9b6e0c0
   limits:
     plan: f3
     concurrency: 0
